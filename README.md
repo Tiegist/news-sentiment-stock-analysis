@@ -218,16 +218,7 @@ pytest tests/ -v --cov=src
 
 **Note:** Both report templates are provided in the `reports/` directory. Fill in placeholders with your actual analysis results. See `reports/REPORT_TEMPLATE_GUIDE.md` for detailed instructions.
 
-## Learning Objectives
 
-By completing this project, you will:
-
-- ✅ Configure a reproducible Python data-science environment with GitHub
-- ✅ Perform EDA on text and time series data
-- ✅ Compute technical indicators using TA-Lib and PyNance
-- ✅ Run sentiment analysis on news headlines with NLP tools
-- ✅ Measure correlation between news sentiment and daily stock returns
-- ✅ Document findings and write publication-style reports
 
 ## References
 
@@ -236,11 +227,5 @@ By completing this project, you will:
 - [PyNance](https://github.com/mqandil/pynance)
 - [TextBlob Documentation](https://textblob.readthedocs.io/)
 
-## Contributors
 
-Developed for 10 Academy AI Mastery Week 1 Challenge.
-
-## License
-
-This project is for educational purposes as part of the 10 Academy program.
 
